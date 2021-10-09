@@ -1,0 +1,39 @@
+.logo {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    float: left;
+    width: 120px;
+    height: 100px;
+}
+
+.iconos-redes-sociales{
+
+    width: 25px;
+    margin: 10px 5px;
+}
+
+.slider {
+
+    width: 1800px;
+    padding-left: 90px ;
+    padding-bottom: 70px;
+    
+}
+
+footer{
+    background-color: black;
+    padding: 100px 0;
+    text-align: center;
+}
+
+footer .logotipo-footer{
+    width: 200px;
+    margin-bottom: 20px;
+
+}
+
+footer p {
+    font-size: 25px;
+    color: blanchedalmond;
+}
